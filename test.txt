@@ -3,3 +3,4 @@ this is a
 learn git diff
 暂存之后再次编辑
 测试git commit -v
+测试git tag
